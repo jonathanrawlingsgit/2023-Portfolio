@@ -1,0 +1,15 @@
+{
+    "name": "jonathanrawlings/lifecoach-coach-speaker-mentor-template-2022-02-21-23-53-25-utc",
+    "autoload": {
+        "psr-4": {
+            "Jonathanrawlings\\LifecoachCoachSpeakerMentorTemplate20220221235325Utc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Rawlings",
+            "email": "jonraw8@gmail.com"
+        }
+    ],
+    "require": {}
+}
